@@ -1,5 +1,5 @@
 {
-  "name": "famelo-navigation",
+  "name": "famelo/navigation",
   "version": "1.0.0",
   "main": "less/navs.less",
   "dependencies": {
