@@ -1,0 +1,8 @@
+{
+  "name": "Famelo Navigation component",
+  "version": "1.0.0",
+  "main": "less/navs.less",
+  "dependencies": {
+    "bootstrap": "~2.1.0"
+  }
+}
